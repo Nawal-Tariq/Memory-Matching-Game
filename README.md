@@ -30,3 +30,10 @@ A simple interactive Memory Matching Game built with **HTML, CSS, and jQuery**.
 5. Try to match all pairs in the fewest moves and fastest time!
 
 ## 📁 Project Structure
+
+Memory-Matching-Game/
+├── index.html
+├── c.css
+├── j.js
+├── match.mp3
+└── wrong.mp3
