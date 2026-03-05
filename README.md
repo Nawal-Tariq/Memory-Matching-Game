@@ -1,5 +1,3 @@
-# Memory-Matching-Game
-Memory-Matching-Game
 # Memory Matching Game
 
 A simple interactive Memory Matching Game built with **HTML, CSS, and jQuery**.
